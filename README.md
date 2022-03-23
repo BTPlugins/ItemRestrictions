@@ -1,5 +1,5 @@
 # ItemRestrictions
- Restirct Items from being picked up
+ Restrict Items from being picked up via Permissions
 
 ## Features
 - Easy Config
