@@ -1,6 +1,10 @@
 # ItemRestrictions
  Restrict Items from being picked up via Permissions
 
+# Depreciated
+Use the new and updated Version - BTAdvancedRestrictions
+https://github.com/BTPlugins/BTAdvancedRestrictor
+
 ## Features
 - Easy Config
 - Item Restrictions
